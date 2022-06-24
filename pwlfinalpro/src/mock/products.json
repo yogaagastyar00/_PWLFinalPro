@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Samsung Galaxy S22 Ultra",
+      "price": 999.00,
+      "imgUrl": "https://images.samsung.com/levant/smartphones/galaxy-s22-ultra/buy/S22_Ultra_ProductKV_Black_MO.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 12 Pro Max",
+      "price": 983.27,
+      "imgUrl": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_12_pro_max_pacific_blue_1_1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S10",
+      "price": 749.99,
+      "imgUrl": "https://p-id.ipricegroup.com/uploaded_89a39a66d88f8f6534793131119db485.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Xiaomi Poco M3",
+      "price": 220.19,
+      "imgUrl": "https://1.bp.blogspot.com/-e52uuezhXqA/YRaAYn688EI/AAAAAAAAFew/nc0H88qfKIArUQaQKudFRCwuiOxd50j-wCLcBGAsYHQ/s0/poco-m3.webp"
+    },
+    {
+      "id": 5,
+      "title": "Infinix Hot 12i",
+      "price": 179.14,
+      "imgUrl": "https://p-id.ipricegroup.com/uploaded_3a991652466582bb0f4767cde195bb91.jpg"
+    },
+    {
+      "id": 6,
+      "title": "OPPO Reno6",
+      "price": 410.00,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6XF3EhWak9tI90ECJS4EVe36KWALG2f-26Q&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone XR",
+      "price": 429.00,
+      "imgUrl": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone-xr-red_1_6_1_5.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy S20 FE",
+      "price": 249.99,
+      "imgUrl": "https://p-id.ipricegroup.com/uploaded_0bca655a4edb6b0d7d31fc268b75a306.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Xiaomi Poco M4 Pro",
+      "price": 269.99,
+      "imgUrl": "https://www.yatekno.com/wp-content/uploads/2022/02/Xiaomi-Poco-M4-Pro-5G.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Samsung Galaxy A12",
+      "price": 184.99,
+      "imgUrl": "https://media.dinomarket.com/docs/imgTD/2021-01/pic_A12_BlueNew1_110121150106_ll.jpg.jpg"
+    }
+  ]
+  
